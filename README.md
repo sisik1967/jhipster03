@@ -230,3 +230,5 @@ To configure CI for your project, run the ci-cd sub-generator (`jhipster ci-cd`)
 # jhipster03
 
 "# jhipster04"
+
+# jhipster04
