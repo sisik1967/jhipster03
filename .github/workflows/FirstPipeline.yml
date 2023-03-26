@@ -28,4 +28,4 @@ jobs:
         run: |
             mvn compile com.google.cloud.tools:jib-maven-plugin:3.3.1:build \
             -Dspring-boot.run.profiles=prod \
-            -Dimage="${{ secrets.DOCKER_HUB_USER }}/jhipsterex03:latest"
+            -Dimage="sisik1967/jhipsterex03:latest"
